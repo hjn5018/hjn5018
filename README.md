@@ -1,10 +1,8 @@
 ## Hi there 👋
-Interested in Python, AI
-<br>
+Interested in Python, AI <br>
 Studying Django
 
-check out our team's site: https://sparta-games.net/![gaming](https://github.com/hjn5018/hjn5018/assets/75594057/994852d5-352d-4822-ac21-a091587879ce)
-
+check out our team's site: https://sparta-games.net/
 <br>
 ![hjn5018's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjn5018&show_icons=true&theme=radical)
 <!--
