@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![hjn5018's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjn5018&show_icons=true&theme=radical)
 <!--
 **hjn5018/hjn5018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
