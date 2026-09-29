@@ -1,4 +1,4 @@
-# 👋 Hi, there!
+# 👋 Hi there!
 I am currently a university student studying Java, Linux, networking, and AI.
 
 <p align="center">
